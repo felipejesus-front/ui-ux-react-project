@@ -49,6 +49,7 @@ module.exports = {
 			dataStateVariant("unchecked", helpers);
 			dataStateVariant("active", helpers);
 		},
+		require("tailwindcss-radix")(),
 	],
 };
 
