@@ -1,11 +1,13 @@
 # link de acesso direto a pagina
-- https://felipejesus-front.github.io/ui-ux-react-project/
+
+<h1> https://felipejesus-front.github.io/ui-ux-react-project/</h1>
 
 
+<br>
+<br><br>
 
 # Download do arquivo figma feito para o projeto:
-- https://github.com/felipejesus-front/ui-ux-react-project/raw/main/TesteComuniversePrototipagem.fig
-
+-https://github.com/felipejesus-front/ui-ux-react-project/raw/main/TesteComuniversePrototipagem.fig 
 
 ## ℹ️ Como Usar
 
