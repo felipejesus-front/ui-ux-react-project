@@ -2,7 +2,7 @@ export const Objects = {
 	people: [
 		{
 			name: "Brendo Simpsom",
-			avatar: "npoicon-list/avatar1.png",
+			avatar: "icon-list/avatar1.png",
 			ranking: 1,
 			atualUser: false,
 		},
